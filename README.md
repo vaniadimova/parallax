@@ -1,1 +1,2 @@
-## Welcome to Parallax OnePage WebSite
+## Parallax OnePage WebSite
+[netifly-deploy](https://parallaxp.netlify.app/)
